@@ -11,7 +11,7 @@ The following steps were taken to reach the final conclusion.
 - Data preprocessing: Dealing with missing values, metadata, categorising, recoding.
 - Model training: Logistic regression, tree-based models, gradient descent and penalised logistic regression.
 - Model tuning: Feature selection/dimensionality reduction, tuning parameters.
-- Model evaluation: Missclassification/error rates, confusion matrices.
+- Model evaluation: Missclassification/error rates, confusion matrices, graph visualisations.
 - Performance comparison.
 
 ## Conclusion
